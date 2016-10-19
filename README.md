@@ -2,7 +2,8 @@
 
 InfoShare is an online platform where Caregivers share Information on their experiences and expertise to other Caregivers within the same organization. InfoShare bridges the gap between community caregivers and the department of health along with all the healthcare facilities within in the city
 
-The System has 4 Roles:
+The System has 5 Roles:
+- The System Admin
 - The Organization Admin
 - The Publisher of articles
 - The Editor of articles
